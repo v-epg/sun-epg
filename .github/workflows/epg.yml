@@ -33,7 +33,7 @@ jobs:
           SUNNXT_PROXY: ${{ secrets.SUNNXT_PROXY }}
         run: |
           python private-src/sunnxt_epg.py \
-            --days 7 \
+            --days 3 \
             --output epg.xml \
             --gz
 
