@@ -1,6 +1,4 @@
-# 📺 EPG
-
-Automatic XMLTV EPG for SunNXT channels.
+ channels.
 
 ## 🔗 EPG URLs
 
