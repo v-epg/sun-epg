@@ -28,7 +28,7 @@ jobs:
         with:
           repository: vgit-push/sunnxt
           token: ${{ secrets.PRIVATE_REPO_PAT }}
-          path: private-src/sunnxt_epg.py
+          path: private-src
 
       - name: Install Python Dependencies
         run: |
