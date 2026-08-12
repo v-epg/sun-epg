@@ -5256,6 +5256,249 @@
     </rating>
     <icon src="https://sund-images.sunnxt.com/epg-images/12082026/1b216078-5d55-4bc3-844e-b00b7d435ea4_Image5_10_3_Kelvi_Kalam_Kelvi-kalam-new-main.jpeg"/>
   </programme>
+  <programme start="20260814000000 +0530" stop="20260814060000 +0530" channel="sun194404">
+    <title lang="ta">News</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/b57c177b-d22a-4438-a566-b0621a818750_10_3_News_sunnews_image.jpg"/>
+  </programme>
+  <programme start="20260814060000 +0530" stop="20260814070000 +0530" channel="sun194404">
+    <title lang="ta">6 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/4b5c5d57-a603-4b81-b851-9dc56e956211_Image5_10_3_6_Mani_Seithigal_6-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814070000 +0530" stop="20260814073000 +0530" channel="sun194404">
+    <title lang="ta">7 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/d56cbdab-31bc-4ede-a8c7-9c6f6af81bab_Image5_10_3_7_Mani_Seithigal_7-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814073000 +0530" stop="20260814080000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/358462e7-baaf-46ea-96b3-197e0b4762f3_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814080000 +0530" stop="20260814083000 +0530" channel="sun194404">
+    <title lang="ta">8 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/9b433aa8-f8e2-4482-89dc-dee35caa4562_Image5_10_3_8_Mani_Seithigal_8-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814083000 +0530" stop="20260814090000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/d6ae7859-3c6d-428c-a386-b46dab73c8ea_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814090000 +0530" stop="20260814100000 +0530" channel="sun194404">
+    <title lang="ta">9 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/c320d01f-88c0-435d-89e8-cb2aab48707b_Image5_10_3_9_Mani_Seithigal_9-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814100000 +0530" stop="20260814110000 +0530" channel="sun194404">
+    <title lang="ta">10 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/42cf08bc-6b81-4558-90ed-0c929f6e49f1_Image5_10_3_10_Mani_Seithigal_10-news-556-.jpeg"/>
+  </programme>
+  <programme start="20260814110000 +0530" stop="20260814120000 +0530" channel="sun194404">
+    <title lang="ta">11 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/7280cdc2-5055-400c-9943-90028d1e6375_Image5_10_3_11_Mani_Seithigal_11-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814120000 +0530" stop="20260814130000 +0530" channel="sun194404">
+    <title lang="ta">12 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/e747190c-d2b0-41c8-90fb-64d049efb200_Image5_10_3_12_Mani_Seithigal_12-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814130000 +0530" stop="20260814133000 +0530" channel="sun194404">
+    <title lang="ta">1 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/cbfe58ef-f51f-4912-9acb-801c5e980af4_Image5_10_3_1_Mani_Seithigal_1-MAIN-SETHIGAL-556_(1).jpeg"/>
+  </programme>
+  <programme start="20260814133000 +0530" stop="20260814140000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/021b351d-faf7-444d-b0c3-736d591c00c6_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814140000 +0530" stop="20260814143000 +0530" channel="sun194404">
+    <title lang="ta">FIR - Kuttramum Pinnaniyum</title>
+    <desc lang="ta">The show FIR explores the background of the crime.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/20c2995b-5d56-4616-8e21-41a53dcc5aa9_Image5_10_3_FIR_-_Kuttramum_Pinnaniyum_FIR_-_Kuttramum_Pinnaniyum_FIR.jpeg"/>
+  </programme>
+  <programme start="20260814143000 +0530" stop="20260814150000 +0530" channel="sun194404">
+    <title lang="ta">Current Affairs</title>
+    <desc lang="ta">An up-to-date news coverage of current affairs.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/1034413f-b868-4e7b-b7b7-c274893f1898_10_3_Current_Affairs_Current-Affairs-556.jpg"/>
+  </programme>
+  <programme start="20260814150000 +0530" stop="20260814160000 +0530" channel="sun194404">
+    <title lang="ta">3 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/22138e9a-b365-4d0e-9f84-bc479472c604_Image5_10_3_3_Mani_Seithigal_3-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814160000 +0530" stop="20260814163000 +0530" channel="sun194404">
+    <title lang="ta">4 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/e3600295-a3eb-4e02-9e12-410d3a93def1_Image5_10_3_4_Mani_Seithigal_4-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814163000 +0530" stop="20260814170000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/f67f7ef9-b936-4665-9024-e3d2d931a29d_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814170000 +0530" stop="20260814180000 +0530" channel="sun194404">
+    <title lang="ta">5 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/fef0866d-6046-466e-a42c-5e8ba8485597_Image5_10_3_5_Mani_Seithigal_5-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814180000 +0530" stop="20260814183000 +0530" channel="sun194404">
+    <title lang="ta">6 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/94d129d5-de3e-492b-a5de-9390d57d1a15_Image5_10_3_6_Mani_Seithigal_6-news-556.jpeg"/>
+  </programme>
+  <programme start="20260814183000 +0530" stop="20260814190000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/f76d962c-9f79-411b-94db-448cb18c2deb_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814190000 +0530" stop="20260814200000 +0530" channel="sun194404">
+    <title lang="ta">Kelvi Kalam</title>
+    <desc lang="ta">This is a debate program that includes members of the general public.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/50ce4631-777b-4e62-a0ba-5c6cb31b32e2_Image5_10_3_Kelvi_Kalam_Kelvi-kalam-new-main.jpeg"/>
+  </programme>
+  <programme start="20260814200000 +0530" stop="20260814210000 +0530" channel="sun194404">
+    <title lang="ta">8 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/530b3d0c-7f3f-49a2-8d05-cdcda941223a_Image5_10_3_8_Mani_Seithigal_8-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814210000 +0530" stop="20260814213000 +0530" channel="sun194404">
+    <title lang="ta">9 Mani Seithigal</title>
+    <desc lang="ta">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/632567d9-28e5-4ce3-9fe1-2513a7392042_Image5_10_3_9_Mani_Seithigal_9-MANI-SETHIGAL-556.jpeg"/>
+  </programme>
+  <programme start="20260814213000 +0530" stop="20260814220000 +0530" channel="sun194404">
+    <title lang="ta">FIR - Kuttramum Pinnaniyum</title>
+    <desc lang="ta">The show FIR explores the background of the crime.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/9102efed-df8d-4b74-a073-43bf456a4da6_Image5_10_3_FIR_-_Kuttramum_Pinnaniyum_FIR_-_Kuttramum_Pinnaniyum_FIR.jpeg"/>
+  </programme>
+  <programme start="20260814220000 +0530" stop="20260814223000 +0530" channel="sun194404">
+    <title lang="ta">Current Affairs</title>
+    <desc lang="ta">An up-to-date news coverage of current affairs.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/9cf0260e-2ed7-4d49-99db-c3e604bb3e90_10_3_Current_Affairs_Current-Affairs-556.jpg"/>
+  </programme>
+  <programme start="20260814223000 +0530" stop="20260814230000 +0530" channel="sun194404">
+    <title lang="ta">100 Speed News</title>
+    <desc lang="ta">The host provides a brief update on the day's major stories, which range from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/d4d892ba-e685-411f-aef4-fbdbb834cdf7_10_3_100_Speed_News_100fast-556.jpg"/>
+  </programme>
+  <programme start="20260814230000 +0530" stop="20260814235900 +0530" channel="sun194404">
+    <title lang="ta">Kelvi Kalam</title>
+    <desc lang="ta">This is a debate program that includes members of the general public.</desc>
+    <category lang="en">News</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/12082026/3100f505-e8f4-4dea-b8fa-9d175b037a0a_Image5_10_3_Kelvi_Kalam_Kelvi-kalam-new-main.jpeg"/>
+  </programme>
   <programme start="20260812000000 +0530" stop="20260812020000 +0530" channel="sun194407">
     <title lang="ta">Sirika Sirika Sirippu</title>
     <desc lang="ta">The program features the antics of some of the most popular comedians.</desc>
