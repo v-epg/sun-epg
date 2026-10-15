@@ -10106,6 +10106,114 @@
     </rating>
     <icon src="https://sund-images.sunnxt.com/epg-images/15102026/c5b7496f-69ad-4ba4-892b-d37ab292ae72_Image5_26_5_Movie_-_Manasunodu_Manasunodu2.jpg"/>
   </programme>
+  <programme start="20261017000000 +0530" stop="20261017010000 +0530" channel="sun194384">
+    <title lang="te">Movie Contd - Manassunodu</title>
+    <desc lang="te">Cast - Sivakarthikeyan, Aishwarya Rajesh</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/3a348381-3ca4-4900-ba64-04e0c41f023a_Image5_26_5_Movie_Contd_-_Manassunodu_Manasunodu2.jpg"/>
+  </programme>
+  <programme start="20261017010000 +0530" stop="20261017013000 +0530" channel="sun194384">
+    <title lang="te">Navul  Navul</title>
+    <desc lang="te">Navul - Navul</desc>
+    <category lang="en">Comedy</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/e75517ef-fb2f-4689-8f65-9edcc8d87e4b_26_4_Navul_-_Navul_Navul-navul-556.jpg"/>
+  </programme>
+  <programme start="20261017013000 +0530" stop="20261017040000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/3da099f3-b6c2-4c71-bcc0-ec0f4def1b67_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017040000 +0530" stop="20261017043000 +0530" channel="sun194384">
+    <title lang="te">Navul  Navul</title>
+    <desc lang="te">Navul - Navul</desc>
+    <category lang="en">Comedy</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/eaa16bed-151e-41e1-9fad-ace728364abf_26_4_Navul_-_Navul_Navul-navul-556.jpg"/>
+  </programme>
+  <programme start="20261017043000 +0530" stop="20261017060000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/7be7f5ee-7381-4857-9f97-c47603c3c829_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017063000 +0530" stop="20261017070000 +0530" channel="sun194384">
+    <title lang="te">Mee Adbutha Samayam</title>
+    <desc lang="te">Mee Adbutha Samayam&amp;nbsp;</desc>
+    <category lang="en">Spiritual</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/724b0fc9-b3a7-4505-9dad-3dbe3f299953_26_9_Mee_Adbutha_Samayam_Mee-Adbutha-Samayam-556.jpg"/>
+  </programme>
+  <programme start="20261017070000 +0530" stop="20261017100000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/2a5a95d2-27f2-4687-9699-b06bae068f01_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017100000 +0530" stop="20261017130000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/bd2231eb-2101-4068-8715-6031b2338da3_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017130000 +0530" stop="20261017160000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/a9c78ed1-a328-4cf6-b625-4e4162720b1b_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017160000 +0530" stop="20261017190000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/d156225e-5241-49c1-9ac4-3f45b8a37917_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017190000 +0530" stop="20261017220000 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/e00313c4-c1bb-4f7a-96f1-3320686a3fc5_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
+  <programme start="20261017220000 +0530" stop="20261017235900 +0530" channel="sun194384">
+    <title lang="te">Movie</title>
+    <desc lang="te">Telugu Movies</desc>
+    <category lang="en">Movies</category>
+    <rating system="IN">
+      <value>U</value>
+    </rating>
+    <icon src="https://sund-images.sunnxt.com/epg-images/15102026/2f4e9a60-29ff-443c-9852-e00113fcb2ea_26_5_Movie_gm-mainpage.jpg"/>
+  </programme>
   <programme start="20261015000000 +0530" stop="20261015060000 +0530" channel="sun194393">
     <title lang="te">Fresh - Hits</title>
     <desc lang="te">FreshHits is the ultimate music destination for those who crave the latest andgreatest in popular music. Each episode features handpicked new songs that aretopping the charts, so you can stay ahead of the game and discover the freshesttracks before anyone else. Tune in and get ready to experience the hottest hitsof the moment!&amp;nbsp;</desc>
